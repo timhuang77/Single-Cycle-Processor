@@ -10,7 +10,7 @@ This processor fulfills the following subset of the MIPS instruction set archite
 
 ## Deployment
 
-
+This processor was tested and verified using ModelSim. We verify the functionality of the processor by feeding it binary MIPS instructions line-by-line and verify that all the operations are correctly interpreted, executed, and stored: cycle-by-cycle.
 
 ## Built With
 
