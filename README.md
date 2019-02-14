@@ -12,6 +12,8 @@ This processor fulfills the following subset of the MIPS instruction set archite
 
 This processor was tested and verified using ModelSim. We verify the functionality of the processor by feeding it binary MIPS instructions line-by-line and verify that all the operations are correctly interpreted, executed, and stored: cycle-by-cycle.
 
+The top-level entity of the processor is "processor.vhd"
+
 ## Built With
 
 * [Notepad++](https://notepad-plus-plus.org) - Editor used for developing VHDL
